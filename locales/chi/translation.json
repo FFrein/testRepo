@@ -2,6 +2,17 @@
   "Sign In": "登录",
   "PreOrderHeader": "预购",
 
+  "Ask question": "提问",
+
+  "Email": "邮箱",
+  "Password": "密码",
+  "Re-Password": "Re-enter password",
+  "SignIn": "登录",
+  "SignUp": "注册",
+  "LoginError": "用户名或密码输入错误",
+  "RegError": "密码不一致",
+  "HaveAcc": "你已拥有账户？",
+
   "AutoFarmX": "AutoFarm X -为农场提供创新可靠的解决方案",
   "MainDescription": "CS2和Steam的多功能软件。这是一种创新的方式，可以让掉落箱子更加安全。",
   "Pre-order": "预购",

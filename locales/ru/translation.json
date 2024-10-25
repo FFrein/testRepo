@@ -1,4 +1,18 @@
 {
+  "Sign In": "Sign In",
+  "PreOrderHeader": "Pre-Order",
+
+  "Ask question": "Ask question",
+
+  "Email": "Email",
+  "Password": "Password",
+  "Re-Password": "Re-enter password",
+  "SignIn": "Sign in",
+  "SignUp": "Sign up",
+  "LoginError": "You have entered an incorrect login or password",
+  "RegError": "You have entered an incorrect login or password",
+  "HaveAcc": "Don't have an account yet? ",
+
   "AutoFarmX": "AutoFarm X - provides an innovative and reliable solution for farm",
   "MainDescription": "Многофункциональное программное обеспечение для Counter-Strike 2 и Steam. Инновационный способ получить кейс с повышенным уровнем безопасности.",
   "Pre-order": "Pre-Order",
