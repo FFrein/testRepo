@@ -111,5 +111,28 @@
   "Privacy7Text": "7. 我们将随时向客户提供有关我们个人信息管理的政策和做法的信息。",
 
   "BuyingAFX": "购买 AFX",
-  "BuyingAFXtext": "如需购买，请与我们的经理联系"
+  "BuyingAFXtext": "如需购买，请与我们的经理联系",
+
+  "My Subscriptions": "用户资料",
+  "AFXPAIDtext": "CS2和Steam的多功能软件。这是一种创新的方式，可以让掉落箱子更加安全。",
+  "Launch date": "发行日期",
+  "Date of activation": "Date of activation",
+  "End date": "End date",
+  "join": "加入日期",
+  "Profile": "用户资料",
+  "Subscribe": "订阅",
+  "Statistics": "统计",
+  "Exit": "退出",
+  "Join Private Chat": "加入私人聊天",
+  "Reset Hwid": "重置 Hwid",
+  "Need help": "需要帮助",
+  "Forgot your password?": "忘记密码？",
+  "You have not yet enabled": "您还没有启用",
+  "Connect": "连接",
+  "Not connected": "未连接",
+  "Reset": "重置",
+  "Login": "登录",
+  "2FA Authenticator": "2FA Authenticator",
+  "Balance": "余额",
+  "WeChat": "微信"
 }
