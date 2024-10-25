@@ -38,6 +38,8 @@
   "November": "November",
   "October": "October",
 
+  "DMimgText": "Limit of 16 virutal machines or 900 accounts per week. The limit can be increased.",
+
   "Q1": "If I buy a seat and one license, do I need to buy another seat for the second license?",
   "Q1T": "No, a seat is assigned to each user, which gives access to unique chats and services. In case a user needs to buy another license, he/she will have to pay only for the license, without paying for a seat.",
   "Q2": "How will the boost work in DM mode?",

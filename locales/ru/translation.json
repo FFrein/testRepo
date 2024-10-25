@@ -34,6 +34,8 @@
   "November": "November",
   "October": "October",
 
+  "DMimgText": "Limit of 16 virutal machines or 900 accounts per week. The limit can be increased.",
+
   "Q1": "If I buy a seat and one license, do I need to buy another seat for the second license?",
   "Q1T": "Нет, место закрепляется каждому пользователю, которое даёт доступ к уникальным чатам и сервисам. В случае, если пользователю нужно купить ещё одну лицензию, то ему нужно будет заплатить только за лицензию, без платы за место.",
   "Q2": "How will the boost work in DM mode?",
