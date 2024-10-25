@@ -1,4 +1,7 @@
 {
+  "Sign In": "Sign In",
+  "PreOrderHeader": "Pre-Order",
+
   "AutoFarmX": "AutoFarm X - provides an innovative and reliable solution for farm",
   "MainDescription": "Multifunctional software for Counter-Strike 2 & Steam. An innovative way to get a case with an increased level of security.",
   "Pre-order": "Pre-Order",
@@ -31,6 +34,7 @@
 
   "Slot purchase": "Slot purchase",
   "Slots": "Slots",
+  "Purchase": "Purchase",
   "November": "November",
   "October": "October",
 
