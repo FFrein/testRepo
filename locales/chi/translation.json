@@ -12,6 +12,16 @@
   "LoginError": "用户名或密码输入错误",
   "RegError": "密码不一致",
   "HaveAcc": "你已拥有账户？",
+  "Code": "代码",
+
+  "CompleteRegistrationMessage": "您的电子邮件已收到确认代码，请在下框中输入该代码以完成注册",
+  "CompleteRecoveryPassword": "系统会向您的电子邮件发送一个确认代码，请在下面的框中输入该代码，以继续更改密码",
+
+  "Forgot password?": "忘记密码?",
+
+  "New Password": "新密码",
+  "Repeat new password": "确认新密码",
+  "Confirm": "确认",
 
   "AutoFarmX": "AutoFarm X -为农场提供创新可靠的解决方案",
   "MainDescription": "CS2和Steam的多功能软件。这是一种创新的方式，可以让掉落箱子更加安全。",

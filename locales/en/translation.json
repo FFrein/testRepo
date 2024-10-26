@@ -12,6 +12,16 @@
   "LoginError": "You have entered an incorrect login or password",
   "RegError": "You have entered an incorrect login or password",
   "HaveAcc": "Don't have an account yet? ",
+  "Code": "Code",
+
+  "CompleteRegistrationMessage": "A confirmation code has been sent to your email, please enter it in the box below to complete your registration",
+  "CompleteRecoveryPassword": "A confirmation code has been sent to your email, enter it in the box below to continue changing your password",
+
+  "Forgot password?": "Forgot password?",
+
+  "New Password": "New Password",
+  "Repeat new password": "Repeat new password",
+  "Confirm": "Confirm",
 
   "AutoFarmX": "AutoFarm X - provides an innovative and reliable solution for farm",
   "MainDescription": "Multifunctional software for Counter-Strike 2 & Steam. An innovative way to get a case with an increased level of security.",
