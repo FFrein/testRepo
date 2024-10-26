@@ -2,6 +2,8 @@
   "Sign In": "Sign In",
   "PreOrderHeader": "Pre-Order",
 
+  "LoginPlaceHolder": "Username",
+
   "Ask question": "Ask question",
 
   "Email": "Email",
@@ -21,6 +23,7 @@
 
   "New Password": "New Password",
   "Repeat new password": "Repeat new password",
+  "Next": "Next",
   "Confirm": "Confirm",
 
   "AutoFarmX": "AutoFarm X - provides an innovative and reliable solution for farm",

@@ -4,6 +4,8 @@
 
   "Ask question": "提问",
 
+  "LoginPlaceHolder": "用户名称",
+
   "Email": "用户名",
   "Password": "密码",
   "Re-Password": "Re-enter password",
@@ -21,6 +23,7 @@
 
   "New Password": "新密码",
   "Repeat new password": "确认新密码",
+  "Next": "Next",
   "Confirm": "确认",
 
   "AutoFarmX": "AutoFarm X -为农场提供创新可靠的解决方案",
