@@ -23,7 +23,7 @@
 
   "New Password": "新密码",
   "Repeat new password": "确认新密码",
-  "Next": "Next",
+  "Next": "下一个",
   "Confirm": "确认",
 
   "AutoFarmX": "AutoFarm X -为农场提供创新可靠的解决方案",
@@ -147,5 +147,23 @@
   "Login": "登录",
   "2FA Authenticator": "2FA Authenticator",
   "Balance": "余额",
-  "WeChat": "微信"
+  "WeChat": "微信",
+
+  "Password reset": "Password reset",
+  "You've received an e-mail with a confirmation code. Enter the code to change your password.": "You've received an e-mail with a confirmation code. Enter the code to change your password.",
+  "Change": "Change",
+  "You have entered an invalid password, if you have forgotten your password, you can reset it.": "You have entered an invalid password, if you have forgotten your password, you can reset it.",
+  "You have entered the wrong code, you have 10 attempts after which your account will be locked.": "You have entered the wrong code, you have 10 attempts after which your account will be locked.",
+  "WeChat connect": "WeChat connect",
+  "To connect WeChat, write to your manager": "To connect WeChat, write to your manager",
+  "Discord connect": "Discord connect",
+  "To connect discord, follow the link below and click authorize": "To connect discord, follow the link below and click authorize",
+  "Telegram connect": "Telegram connect",
+  "To connect telegram go to the bot and copy the code and paste it.": "To connect telegram go to the bot and copy the code and paste it.",
+  "Link bot": "Link bot",
+  "Follow the instructions for connecting the 2fa protection.": "Follow the instructions for connecting the 2fa protection.",
+  "Download the google awntificator app to your phone": "Download the google awntificator app to your phone",
+  "Scan the qr-code or copy and paste the key": "Scan the qr-code or copy and paste the key",
+  "Enter the code from the app to confirm": "Enter the code from the app to confirm",
+  "You entered an invalid code, try again": "You entered an invalid code, try again"
 }
