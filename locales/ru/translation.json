@@ -19,6 +19,9 @@
   "CompleteRegistrationMessage": "код подтверждения был отправлен на ваш электронный адрес, введите его в поле ниже, чтобы продолжить смену пароля.",
   "CompleteRecoveryPassword": "На ваш электронный адрес был отправлен код подтверждения, введите его в поле ниже, чтобы продолжить смену пароля.",
 
+  "Ask question 2": "Ask question",
+  "Any questions about the new product? Then write to us and we willbe happy to help you.": "Any questions about the new product? Then write to us and we willbe happy to help you.",
+
   "Forgot password?": "Забыли пароль?",
 
   "New Password": "Новый пароль",

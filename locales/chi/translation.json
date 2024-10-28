@@ -6,9 +6,9 @@
 
   "LoginPlaceHolder": "用户名称",
 
-  "Email": "用户名",
+  "Email": "邮箱",
   "Password": "密码",
-  "Re-Password": "Re-enter password",
+  "Re-Password": "确认密码",
   "SignIn": "登录",
   "SignUp": "注册",
   "LoginError": "用户名或密码输入错误",
@@ -18,6 +18,9 @@
 
   "CompleteRegistrationMessage": "您的电子邮件已收到确认代码，请在下框中输入该代码以完成注册",
   "CompleteRecoveryPassword": "系统会向您的电子邮件发送一个确认代码，请在下面的框中输入该代码，以继续更改密码",
+
+  "Ask question 2": "提出问题",
+  "Any questions about the new product? Then write to us and we willbe happy to help you.": "对新产品有任何疑问吗？那就请反馈给我们，我们很乐意帮助你。",
 
   "Forgot password?": "忘记密码?",
 
@@ -31,8 +34,10 @@
   "Pre-order": "预购",
   "Pre-orderDiscr": "这个金额包含一个月的访问权限，之后续费订阅金额为每月$70。",
   "Contact for purchase": "购买软件请联系我们",
+
   "PrivateProject": "私人项目",
-  "PrivateProjectDiscr": "该软件是私人化的，全球用户数量有限。因为我们意识到公共软件是一个非常容易Valve封禁和修复的目标，所以我们必须这样做。",
+  "PrivateProjectDiscr": "该软件是私人化的，全球用户数量有限。因为我们意识到公共软件是一个非常容易被Valve封禁和修复的目标，所以我们必须这样做。",
+
   "DataProtection": "数据保护",
   "DataProtectionDiscr": "与您的帐户相关的所有数据都是安全加密的，只存储在您的计算机上。保证您的数据不被泄露。",
   "EasyToUse": "使用简单",
